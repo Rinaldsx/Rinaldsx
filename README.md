@@ -1,10 +1,11 @@
-## Olá! Eu sou o Rinaldo 
+## Olá! Eu sou o Rinaldo Marques
 
 - 🖥️ Eu estou cursando bacharelado em engenharia de computação
 - 📧 Contate-me no email: rinaldoigorsm@gmail.com
 - 🙂 Sobre mim: Comecei recentemente a faculdade e não possuo tanta experiência, mas estou buscando evoluir e sempre disposto a aprender
 
 ## 
+Linguagens e Tecnologias:
 <div style="display: inline_block"><br>
   <img align="center" alt="Rinaldo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Rinaldo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
