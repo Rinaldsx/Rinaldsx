@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Rinaldo
 
-- 🖥️ Estou cursando bacharelado em engenharia de computação (1° semestre)
+- 🖥️ Estou cursando bacharelado em engenharia de computação (2° semestre)
 - 📧 Contate-me no email: rinaldoigorsm@gmail.com
 - 🙂 Sobre mim: Comecei recentemente a faculdade e ainda não possuo tanta experiência, mas estou buscando evoluir e sempre disposto a aprender
 
